@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47kuf3bk1tw81pd2xkkcw2inrp9cfaft8o803xl0td&rid=giphy.gif&ct=g)]
+
 <h1 align="center">Hi 👋, I'm Md. Sohanur Rahman Hridoy</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <img align="right" width="400" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" alt="Coding">
