@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA with C++**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **SohanrRahmanHridoy007@gmail.com**
 
