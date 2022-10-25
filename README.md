@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **SohanrRahmanHridoy007@gmail.com**
+- 📫 How to reach me **sohanurrahmanhridoy007@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
