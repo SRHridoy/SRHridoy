@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Md. Sohanur Rahman Hridoy</h1>
-<h3 align="center">A passionate Programmer from Bangladesh</h3>
+<h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 <img align="right" width="400" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="srhridoy" /> </p>
