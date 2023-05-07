@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Md. Sohanur Rahman Hridoy</h1>
 <h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 <img align="right" width="400" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" alt="Coding">
