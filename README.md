@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="srhridoy" /> </p>
 
-- 🌱 I’m currently learning **DSA with C++ && Python**
+- 🌱 I’m currently learning **DSA with C++ && JAVA Android Devloopment**
 
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Programming:C,C++,JAVA,Python**
 
 - 📫 How to reach me **sohanurrahmanhridoy007@gmail.com**
 
