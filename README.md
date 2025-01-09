@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="srhridoy" /> </p>
 
-- 🌱 I’m currently learning **DSA with C++ && JAVA Android Devloopment**
+- 🌱 I’m currently working with **Flutter for App Devloopment**
 
-- 💬 Ask me about **Programming:C,C++,JAVA,Python**
+- 💬 Ask me about **Programming:C,C++,JAVA,Python,Dart**
 
 - 📫 How to reach me **sohanurrahmanhridoy007@gmail.com**
 
