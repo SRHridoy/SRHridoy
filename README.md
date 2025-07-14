@@ -1,13 +1,12 @@
 <!-- Header Section -->
-<h1 align="center">✨ Hi there, I'm <span style="color:#0abde3;">Md. Sohanur Rahman Hridoy</span> 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Md.+Sohanur+Rahman+Hridoy;Flutter+Dev+%F0%9F%93%B1+%7C+ML+Explorer+%F0%9F%A4%96;CSE+Student+%7C+Tech+Lover+%F0%9F%91%BB" alt="Typing intro">
+</h1>
+
 <h3 align="center">💙 Flutter Developer | 🎓 CSE Student | 🤖 ML Enthusiast | 🇧🇩 From Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Flutter+Lover+%F0%9F%93%B1;Machine+Learning+Explorer+%F0%9F%A4%96;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" width="280" alt="Animated Coding">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated Coding">
 </p>
 
 <p align="center">
@@ -22,7 +21,7 @@
 - 🧠 Actively learning **Machine Learning & AI**
 - 💬 Ask me about: `C`, `C++`, `Java`, `Python`, `Dart`, `Flutter`
 - 📬 Reach me at: **sohanurrahmanhridoy007@gmail.com**
-- 🤹 Fun Fact: _I write code faster with good coffee ☕ and loud music 🎧_
+- 🤹 Fun Fact: _I write code faster with good coffee ☕ and loud music 🎷_
 
 ---
 
@@ -67,8 +66,6 @@
   <img src="https://streak-stats.demolab.com/?user=srhridoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srhridoy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -79,4 +76,3 @@
 <p align="center"><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i></p>
 
 ---
-
