@@ -1,12 +1,13 @@
+
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Md.+Sohanur+Rahman+Hridoy;Flutter+Dev+%F0%9F%93%B1+%7C+ML+Explorer+%F0%9F%A4%96;CSE+Student+%7C+Tech+Lover+%F0%9F%91%BB" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Md.+Sohanur+Rahman+Hridoy;Flutter+Dev+📱+|+ML+Explorer+🤖;CSE+Student+|+Tech+Lover+👻" alt="Typing intro">
 </h1>
 
 <h3 align="center">💙 Flutter Developer | 🎓 CSE Student | 🤖 ML Enthusiast | 🇧🇩 From Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated Coding">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" width="320" alt="Animated Dino Coding">
 </p>
 
 <p align="center">
@@ -21,14 +22,14 @@
 - 🧠 Actively learning **Machine Learning & AI**
 - 💬 Ask me about: `C`, `C++`, `Java`, `Python`, `Dart`, `Flutter`
 - 📬 Reach me at: **sohanurrahmanhridoy007@gmail.com**
-- 🤹 Fun Fact: _I write code faster with good coffee ☕ and loud music 🎷_
+- 🤹 Fun Fact: _I write code faster with good coffee ☕ and loud music 🎧_
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/md-sohanur-rahman-hridoy-2385ab257/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-sohanur-rahman-hridoy-2385ab257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/Clasher007" target="_blank">
@@ -79,3 +80,4 @@
 <p align="center"><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i></p>
 
 ---
+
